@@ -10,7 +10,7 @@ The [full image description on Docker Hub](https://hub.docker.com/_/busybox/) is
 
 For more information about the full official images change lifecycle, see [the "An image's source changed in Git, now what?" FAQ entry](https://github.com/docker-library/faq#an-images-source-changed-in-git-now-what).
 
-For outstanding `busybox` image PRs, check [PRs with the "library/busybox" label on the official-images repository](https://github.com/docker-library/official-images/labels/library%2Fbusybox). For the current "source of truth" for [`busybox`](https://hub.docker.com/_/busybox/), see [the `library/busybox` file in the official-images repository](https://github.com/docker-library/official-images/blob/master/library/busybox)
+For outstanding `busybox` image PRs, check [PRs with the "library/busybox" label on the official-images repository](https://github.com/docker-library/official-images/labels/library%2Fbusybox). For the current "source of truth" for [`busybox`](https://hub.docker.com/_/busybox/), see [the `library/busybox` file in the official-images repository](https://github.com/docker-library/official-images/blob/master/library/busybox).
 
 ---
 
